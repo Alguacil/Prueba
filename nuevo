@@ -1,0 +1,6 @@
+program suma
+integer :: i,j
+i=1
+j=2
+write(6,*) i+j
+end program
